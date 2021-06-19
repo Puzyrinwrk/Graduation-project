@@ -1,0 +1,18 @@
+The graphical interface is implemented in qt-designer(PyQT5).
+Installation
+The GPL version of PyQt5 can be installed from PyPI:
+Windows:
+pip install PyQt5
+
+The wheels include a copy of the required parts of the LGPL version of Qt.
+pip will also build and install the bindings from the sdist package but Qt’s qmake tool must be on PATH.
+The sip-install tool will also install the bindings from the sdist package but will allow you to configure many aspects of the installation.
+
+Mac OS:
+You can use brew to install pyqt (in the terminal):
+brew install pyqt
+
+On Ubuntu Linux / Debian Linux you can use the command:
+sudo apt-get install python3-pyqt5
+
+If you are new to Python PyQt, then I highly recommend official documentation.
