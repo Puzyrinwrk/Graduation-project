@@ -15,4 +15,4 @@ brew install pyqt
 On Ubuntu Linux / Debian Linux you can use the command:
 sudo apt-get install python3-pyqt5
 
-If you are new to Python PyQt, then I highly recommend official documentation.
+If you are new to Python PyQt, then I highly recommend official documentation (https://doc.qt.io/qtforpython/)
